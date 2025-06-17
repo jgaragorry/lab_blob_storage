@@ -90,8 +90,6 @@ Ideal para cursos introductorios en Cloud Computing, DevOps o Linux + Azure.
 Distribuido bajo la licencia MIT.
 
 
----
 
-¿Quieres que lo suba ahora mismo al repositorio y te diga los pasos o prefieres hacerlo tú?
 
 
